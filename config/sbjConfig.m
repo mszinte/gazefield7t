@@ -53,8 +53,8 @@ end
 
 switch const.cond1
     case 1; const.cond1_txt = 'Calib';
-    case 2; const.cond1_txt = 'GazeCw';
-    case 3; const.cond1_txt = 'GazeCcw';
+    case 2; const.cond1_txt = 'GazeCW';
+    case 3; const.cond1_txt = 'GazeCCW';
 end
 
 fprintf(1,'\n\tTask: %s\n',const.cond1_txt);
