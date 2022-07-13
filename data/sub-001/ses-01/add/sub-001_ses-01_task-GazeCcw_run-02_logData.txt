@@ -1,0 +1,11 @@
+
+trial_start 1 at 8.009928e+04
+trial_end 1 at 8.018898e+04
+trial_start 2 at 8.018898e+04
+trial_end 2 at 8.027868e+04
+trial_start 3 at 8.027868e+04
+trial_end 3 at 8.036838e+04
+trial_start 4 at 8.036838e+04
+trial_end 4 at 8.045808e+04
+trial_start 5 at 8.045808e+04
+trial_end 5 at 8.054778e+04
